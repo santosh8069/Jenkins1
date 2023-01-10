@@ -1,0 +1,401 @@
+2022-09-18 12:48:31.163 +05:30 [INF] Now listening on: https://localhost:7088
+2022-09-18 12:48:31.175 +05:30 [INF] Now listening on: http://localhost:5088
+2022-09-18 12:48:31.178 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-18 12:48:31.178 +05:30 [INF] Hosting environment: Development
+2022-09-18 12:48:31.178 +05:30 [INF] Content root path: C:\Users\polisettyk\source\repos\EntityWithDapper\EntityWithDapper\
+2022-09-18 12:48:38.072 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger - -
+2022-09-18 12:48:38.307 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger - - - 301 0 - 236.8726ms
+2022-09-18 12:48:38.318 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/index.html - -
+2022-09-18 12:48:38.732 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/swagger-ui-bundle.js - -
+2022-09-18 12:48:38.732 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/swagger-ui-standalone-preset.js - -
+2022-09-18 12:48:38.732 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/swagger-ui.css - -
+2022-09-18 12:48:38.735 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/_framework/aspnetcore-browser-refresh.js - -
+2022-09-18 12:48:38.736 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/index.html - - - 200 - text/html;charset=utf-8 417.3734ms
+2022-09-18 12:48:38.736 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/_vs/browserLink - -
+2022-09-18 12:48:38.740 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/_framework/aspnetcore-browser-refresh.js - - - 200 12002 application/javascript;+charset=utf-8 4.9836ms
+2022-09-18 12:48:38.790 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2022-09-18 12:48:38.791 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2022-09-18 12:48:38.791 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/swagger-ui-standalone-preset.js - - - 200 337162 application/javascript 59.0844ms
+2022-09-18 12:48:38.792 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/swagger-ui.css - - - 200 143632 text/css 59.1385ms
+2022-09-18 12:48:38.818 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2022-09-18 12:48:38.818 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/swagger-ui-bundle.js - - - 200 1092889 application/javascript 86.1482ms
+2022-09-18 12:48:38.864 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 127.5221ms
+2022-09-18 12:48:39.034 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/v1/swagger.json - -
+2022-09-18 12:48:39.102 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 67.8621ms
+2022-09-18 12:48:39.115 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/favicon-32x32.png - -
+2022-09-18 12:48:39.116 +05:30 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2022-09-18 12:48:39.116 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/favicon-32x32.png - - - 200 628 image/png 0.4574ms
+2022-09-18 12:48:44.633 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/users/getusers - -
+2022-09-18 12:48:44.640 +05:30 [INF] Executing endpoint 'EntityWithDapper.Controllers.UserController.GetUsers (EntityWithDapper)'
+2022-09-18 12:48:44.657 +05:30 [INF] Route matched with {action = "GetUsers", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetUsers() on controller EntityWithDapper.Controllers.UserController (EntityWithDapper).
+2022-09-18 12:49:36.562 +05:30 [INF] Now listening on: https://localhost:7088
+2022-09-18 12:49:36.571 +05:30 [INF] Now listening on: http://localhost:5088
+2022-09-18 12:49:36.573 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-18 12:49:36.664 +05:30 [INF] Hosting environment: Development
+2022-09-18 12:49:36.665 +05:30 [INF] Content root path: C:\Users\polisettyk\source\repos\EntityWithDapper\EntityWithDapper\
+2022-09-18 12:49:37.404 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger - -
+2022-09-18 12:49:37.598 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger - - - 301 0 - 198.0125ms
+2022-09-18 12:49:37.600 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/index.html - -
+2022-09-18 12:49:37.838 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/swagger-ui-standalone-preset.js - -
+2022-09-18 12:49:37.838 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/swagger-ui-bundle.js - -
+2022-09-18 12:49:37.838 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/_framework/aspnetcore-browser-refresh.js - -
+2022-09-18 12:49:37.839 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/swagger-ui.css - -
+2022-09-18 12:49:37.840 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/index.html - - - 200 - text/html;charset=utf-8 239.8894ms
+2022-09-18 12:49:37.843 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/_vs/browserLink - -
+2022-09-18 12:49:37.849 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/_framework/aspnetcore-browser-refresh.js - - - 200 12002 application/javascript;+charset=utf-8 10.4979ms
+2022-09-18 12:49:37.901 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2022-09-18 12:49:37.901 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2022-09-18 12:49:37.902 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/swagger-ui.css - - - 200 143632 text/css 63.2720ms
+2022-09-18 12:49:37.902 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/swagger-ui-standalone-preset.js - - - 200 337162 application/javascript 63.8268ms
+2022-09-18 12:49:37.914 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 70.6410ms
+2022-09-18 12:49:37.927 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2022-09-18 12:49:37.927 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/swagger-ui-bundle.js - - - 200 1092889 application/javascript 88.6128ms
+2022-09-18 12:49:38.119 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/v1/swagger.json - -
+2022-09-18 12:49:38.178 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 58.9026ms
+2022-09-18 12:49:42.717 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/users/getusers - -
+2022-09-18 12:49:42.723 +05:30 [INF] Executing endpoint 'EntityWithDapper.Controllers.UserController.GetUsers (EntityWithDapper)'
+2022-09-18 12:49:42.738 +05:30 [INF] Route matched with {action = "GetUsers", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetUsers() on controller EntityWithDapper.Controllers.UserController (EntityWithDapper).
+2022-09-18 13:08:57.922 +05:30 [INF] Now listening on: https://localhost:7088
+2022-09-18 13:08:57.935 +05:30 [INF] Now listening on: http://localhost:5088
+2022-09-18 13:08:57.937 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-18 13:08:57.938 +05:30 [INF] Hosting environment: Development
+2022-09-18 13:08:57.938 +05:30 [INF] Content root path: C:\Users\polisettyk\source\repos\EntityWithDapper\EntityWithDapper\
+2022-09-18 13:08:58.907 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger - -
+2022-09-18 13:08:59.092 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger - - - 301 0 - 187.7660ms
+2022-09-18 13:08:59.117 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/index.html - -
+2022-09-18 13:08:59.531 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/swagger-ui.css - -
+2022-09-18 13:08:59.532 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/swagger-ui-standalone-preset.js - -
+2022-09-18 13:08:59.532 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/swagger-ui-bundle.js - -
+2022-09-18 13:08:59.533 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/index.html - - - 200 - text/html;charset=utf-8 415.1400ms
+2022-09-18 13:08:59.576 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2022-09-18 13:08:59.576 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2022-09-18 13:08:59.576 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/swagger-ui-standalone-preset.js - - - 200 337162 application/javascript 44.3419ms
+2022-09-18 13:08:59.576 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/swagger-ui.css - - - 200 143632 text/css 44.7442ms
+2022-09-18 13:08:59.584 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/_framework/aspnetcore-browser-refresh.js - -
+2022-09-18 13:08:59.598 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/_vs/browserLink - -
+2022-09-18 13:08:59.602 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/_framework/aspnetcore-browser-refresh.js - - - 200 12002 application/javascript;+charset=utf-8 17.2060ms
+2022-09-18 13:08:59.616 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2022-09-18 13:08:59.616 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/swagger-ui-bundle.js - - - 200 1092889 application/javascript 84.6696ms
+2022-09-18 13:08:59.650 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 52.6880ms
+2022-09-18 13:08:59.807 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/v1/swagger.json - -
+2022-09-18 13:08:59.865 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 57.9055ms
+2022-09-18 13:09:14.924 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/users/getusers - -
+2022-09-18 13:09:14.929 +05:30 [INF] Executing endpoint 'EntityWithDapper.Controllers.UserController.GetUsers (EntityWithDapper)'
+2022-09-18 13:09:14.944 +05:30 [INF] Route matched with {action = "GetUsers", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetUsers() on controller EntityWithDapper.Controllers.UserController (EntityWithDapper).
+2022-09-18 13:09:46.011 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[[Domains.Entities.User, Domains, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[System.Runtime.CompilerServices.IAsyncStateMachine, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2022-09-18 13:09:46.039 +05:30 [INF] Executed action EntityWithDapper.Controllers.UserController.GetUsers (EntityWithDapper) in 31091.1631ms
+2022-09-18 13:09:46.043 +05:30 [INF] Executed endpoint 'EntityWithDapper.Controllers.UserController.GetUsers (EntityWithDapper)'
+2022-09-18 13:09:46.046 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.NotSupportedException: Serialization and deserialization of 'System.Action' instances are not supported. Path: $.MoveNextAction.
+ ---> System.NotSupportedException: Serialization and deserialization of 'System.Action' instances are not supported.
+   at System.Text.Json.Serialization.Converters.UnsupportedTypeConverter`1.Write(Utf8JsonWriter writer, T value, JsonSerializerOptions options)
+   at System.Text.Json.Serialization.JsonConverter`1.TryWrite(Utf8JsonWriter writer, T& value, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonPropertyInfo`1.GetMemberAndWriteJson(Object obj, WriteStack& state, Utf8JsonWriter writer)
+   at System.Text.Json.Serialization.Converters.ObjectDefaultConverter`1.OnTryWrite(Utf8JsonWriter writer, T value, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.Serialization.JsonConverter`1.TryWrite(Utf8JsonWriter writer, T& value, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.Serialization.JsonConverter`1.WriteCore(Utf8JsonWriter writer, T& value, JsonSerializerOptions options, WriteStack& state)
+   --- End of inner exception stack trace ---
+   at System.Text.Json.ThrowHelper.ThrowNotSupportedException(WriteStack& state, NotSupportedException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.WriteCore(Utf8JsonWriter writer, T& value, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.Serialization.JsonConverter`1.WriteCoreAsObject(Utf8JsonWriter writer, Object value, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteCore[TValue](JsonConverter jsonConverter, Utf8JsonWriter writer, TValue& value, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteStreamAsync[TValue](Stream utf8Json, TValue value, JsonTypeInfo jsonTypeInfo, CancellationToken cancellationToken)
+   at System.Text.Json.JsonSerializer.WriteStreamAsync[TValue](Stream utf8Json, TValue value, JsonTypeInfo jsonTypeInfo, CancellationToken cancellationToken)
+   at System.Text.Json.JsonSerializer.WriteStreamAsync[TValue](Stream utf8Json, TValue value, JsonTypeInfo jsonTypeInfo, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-09-18 13:09:46.364 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/users/getusers - - - 500 - text/plain;+charset=utf-8 31439.9326ms
+2022-09-18 13:22:32.890 +05:30 [INF] Now listening on: https://localhost:7088
+2022-09-18 13:22:32.900 +05:30 [INF] Now listening on: http://localhost:5088
+2022-09-18 13:22:32.902 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-18 13:22:32.902 +05:30 [INF] Hosting environment: Development
+2022-09-18 13:22:32.902 +05:30 [INF] Content root path: C:\Users\polisettyk\source\repos\EntityWithDapper\EntityWithDapper\
+2022-09-18 13:22:34.329 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger - -
+2022-09-18 13:22:34.571 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger - - - 301 0 - 244.9691ms
+2022-09-18 13:22:34.576 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/index.html - -
+2022-09-18 13:22:34.956 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/index.html - - - 200 - text/html;charset=utf-8 379.8216ms
+2022-09-18 13:22:34.957 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/_framework/aspnetcore-browser-refresh.js - -
+2022-09-18 13:22:34.957 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/swagger-ui-bundle.js - -
+2022-09-18 13:22:34.957 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/swagger-ui-standalone-preset.js - -
+2022-09-18 13:22:34.957 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/swagger-ui.css - -
+2022-09-18 13:22:34.966 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/_vs/browserLink - -
+2022-09-18 13:22:34.998 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/_framework/aspnetcore-browser-refresh.js - - - 200 12002 application/javascript;+charset=utf-8 41.2160ms
+2022-09-18 13:22:35.027 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2022-09-18 13:22:35.032 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/swagger-ui.css - - - 200 143632 text/css 74.9333ms
+2022-09-18 13:22:35.039 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2022-09-18 13:22:35.039 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/swagger-ui-standalone-preset.js - - - 200 337162 application/javascript 82.5469ms
+2022-09-18 13:22:35.048 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 82.5773ms
+2022-09-18 13:22:35.050 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2022-09-18 13:22:35.050 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/swagger-ui-bundle.js - - - 200 1092889 application/javascript 93.2182ms
+2022-09-18 13:22:35.210 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/v1/swagger.json - -
+2022-09-18 13:22:35.274 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 63.5504ms
+2022-09-18 13:22:41.562 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/users/getusers - -
+2022-09-18 13:22:41.570 +05:30 [INF] Executing endpoint 'EntityWithDapper.Controllers.UserController.GetUsers (EntityWithDapper)'
+2022-09-18 13:22:41.582 +05:30 [INF] Route matched with {action = "GetUsers", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetUsers() on controller EntityWithDapper.Controllers.UserController (EntityWithDapper).
+2022-09-18 13:22:48.906 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[[Domains.Entities.User, Domains, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[System.Runtime.CompilerServices.IAsyncStateMachine, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2022-09-18 13:22:48.931 +05:30 [INF] Executed action EntityWithDapper.Controllers.UserController.GetUsers (EntityWithDapper) in 7345.7136ms
+2022-09-18 13:22:48.935 +05:30 [INF] Executed endpoint 'EntityWithDapper.Controllers.UserController.GetUsers (EntityWithDapper)'
+2022-09-18 13:22:48.938 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.NotSupportedException: Serialization and deserialization of 'System.Action' instances are not supported. Path: $.MoveNextAction.
+ ---> System.NotSupportedException: Serialization and deserialization of 'System.Action' instances are not supported.
+   at System.Text.Json.Serialization.Converters.UnsupportedTypeConverter`1.Write(Utf8JsonWriter writer, T value, JsonSerializerOptions options)
+   at System.Text.Json.Serialization.JsonConverter`1.TryWrite(Utf8JsonWriter writer, T& value, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonPropertyInfo`1.GetMemberAndWriteJson(Object obj, WriteStack& state, Utf8JsonWriter writer)
+   at System.Text.Json.Serialization.Converters.ObjectDefaultConverter`1.OnTryWrite(Utf8JsonWriter writer, T value, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.Serialization.JsonConverter`1.TryWrite(Utf8JsonWriter writer, T& value, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.Serialization.JsonConverter`1.WriteCore(Utf8JsonWriter writer, T& value, JsonSerializerOptions options, WriteStack& state)
+   --- End of inner exception stack trace ---
+   at System.Text.Json.ThrowHelper.ThrowNotSupportedException(WriteStack& state, NotSupportedException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.WriteCore(Utf8JsonWriter writer, T& value, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.Serialization.JsonConverter`1.WriteCoreAsObject(Utf8JsonWriter writer, Object value, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteCore[TValue](JsonConverter jsonConverter, Utf8JsonWriter writer, TValue& value, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteStreamAsync[TValue](Stream utf8Json, TValue value, JsonTypeInfo jsonTypeInfo, CancellationToken cancellationToken)
+   at System.Text.Json.JsonSerializer.WriteStreamAsync[TValue](Stream utf8Json, TValue value, JsonTypeInfo jsonTypeInfo, CancellationToken cancellationToken)
+   at System.Text.Json.JsonSerializer.WriteStreamAsync[TValue](Stream utf8Json, TValue value, JsonTypeInfo jsonTypeInfo, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-09-18 13:22:51.187 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/users/getusers - - - 500 - text/plain;+charset=utf-8 9624.8979ms
+2022-09-18 13:23:36.625 +05:30 [INF] Now listening on: https://localhost:7088
+2022-09-18 13:23:36.635 +05:30 [INF] Now listening on: http://localhost:5088
+2022-09-18 13:23:36.637 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-18 13:23:36.638 +05:30 [INF] Hosting environment: Development
+2022-09-18 13:23:36.638 +05:30 [INF] Content root path: C:\Users\polisettyk\source\repos\EntityWithDapper\EntityWithDapper\
+2022-09-18 13:23:37.665 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger - -
+2022-09-18 13:23:38.138 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger - - - 301 0 - 475.7177ms
+2022-09-18 13:23:38.161 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/index.html - -
+2022-09-18 13:23:38.461 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/swagger-ui.css - -
+2022-09-18 13:23:38.461 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/swagger-ui-bundle.js - -
+2022-09-18 13:23:38.461 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/swagger-ui-standalone-preset.js - -
+2022-09-18 13:23:38.463 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/_framework/aspnetcore-browser-refresh.js - -
+2022-09-18 13:23:38.467 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/_vs/browserLink - -
+2022-09-18 13:23:38.473 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/_framework/aspnetcore-browser-refresh.js - - - 200 12002 application/javascript;+charset=utf-8 11.5036ms
+2022-09-18 13:23:38.473 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/index.html - - - 200 - text/html;charset=utf-8 312.3310ms
+2022-09-18 13:23:38.525 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2022-09-18 13:23:38.526 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2022-09-18 13:23:38.529 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/swagger-ui.css - - - 200 143632 text/css 68.8621ms
+2022-09-18 13:23:38.529 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/swagger-ui-standalone-preset.js - - - 200 337162 application/javascript 68.6908ms
+2022-09-18 13:23:38.543 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 75.8208ms
+2022-09-18 13:23:38.550 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2022-09-18 13:23:38.550 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/swagger-ui-bundle.js - - - 200 1092889 application/javascript 89.8976ms
+2022-09-18 13:23:39.110 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/v1/swagger.json - -
+2022-09-18 13:23:39.185 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 75.0898ms
+2022-09-18 13:23:44.218 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/users/getusers - -
+2022-09-18 13:23:44.224 +05:30 [INF] Executing endpoint 'EntityWithDapper.Controllers.UserController.GetUsers (EntityWithDapper)'
+2022-09-18 13:23:44.239 +05:30 [INF] Route matched with {action = "GetUsers", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetUsers() on controller EntityWithDapper.Controllers.UserController (EntityWithDapper).
+2022-09-18 13:23:49.157 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Threading.Tasks.Task`1[[Domains.Entities.User, Domains, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2022-09-18 13:23:49.202 +05:30 [INF] Executed action EntityWithDapper.Controllers.UserController.GetUsers (EntityWithDapper) in 4958.4603ms
+2022-09-18 13:23:49.203 +05:30 [INF] Executed endpoint 'EntityWithDapper.Controllers.UserController.GetUsers (EntityWithDapper)'
+2022-09-18 13:23:49.207 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/users/getusers - - - 200 - application/json;+charset=utf-8 4988.4190ms
+2022-09-18 13:24:28.106 +05:30 [INF] Now listening on: https://localhost:7088
+2022-09-18 13:24:28.114 +05:30 [INF] Now listening on: http://localhost:5088
+2022-09-18 13:24:28.117 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-18 13:24:28.117 +05:30 [INF] Hosting environment: Development
+2022-09-18 13:24:28.117 +05:30 [INF] Content root path: C:\Users\polisettyk\source\repos\EntityWithDapper\EntityWithDapper\
+2022-09-18 13:24:28.882 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger - -
+2022-09-18 13:24:29.090 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger - - - 301 0 - 210.8154ms
+2022-09-18 13:24:29.094 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/index.html - -
+2022-09-18 13:24:29.518 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/swagger-ui-bundle.js - -
+2022-09-18 13:24:29.518 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/index.html - - - 200 - text/html;charset=utf-8 424.3064ms
+2022-09-18 13:24:29.518 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/swagger-ui-standalone-preset.js - -
+2022-09-18 13:24:29.520 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/_framework/aspnetcore-browser-refresh.js - -
+2022-09-18 13:24:29.524 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/swagger-ui.css - -
+2022-09-18 13:24:29.526 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/_vs/browserLink - -
+2022-09-18 13:24:29.530 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/_framework/aspnetcore-browser-refresh.js - - - 200 12002 application/javascript;+charset=utf-8 10.0777ms
+2022-09-18 13:24:29.588 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2022-09-18 13:24:29.589 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2022-09-18 13:24:29.590 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/swagger-ui.css - - - 200 143632 text/css 65.7327ms
+2022-09-18 13:24:29.590 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/swagger-ui-standalone-preset.js - - - 200 337162 application/javascript 71.7129ms
+2022-09-18 13:24:29.608 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2022-09-18 13:24:29.615 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/swagger-ui-bundle.js - - - 200 1092889 application/javascript 97.2999ms
+2022-09-18 13:24:29.616 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 89.4927ms
+2022-09-18 13:24:29.783 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/v1/swagger.json - -
+2022-09-18 13:24:29.842 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 58.8672ms
+2022-09-18 13:24:34.276 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/users/getusers - -
+2022-09-18 13:24:34.282 +05:30 [INF] Executing endpoint 'EntityWithDapper.Controllers.UserController.GetUsers (EntityWithDapper)'
+2022-09-18 13:24:34.289 +05:30 [INF] Route matched with {action = "GetUsers", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetUsers() on controller EntityWithDapper.Controllers.UserController (EntityWithDapper).
+2022-09-18 13:24:37.315 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Threading.Tasks.Task`1[[Domains.Entities.User, Domains, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2022-09-18 13:24:37.344 +05:30 [INF] Executed action EntityWithDapper.Controllers.UserController.GetUsers (EntityWithDapper) in 3050.366ms
+2022-09-18 13:24:37.346 +05:30 [INF] Executed endpoint 'EntityWithDapper.Controllers.UserController.GetUsers (EntityWithDapper)'
+2022-09-18 13:24:37.348 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/users/getusers - - - 200 - application/json;+charset=utf-8 3072.6736ms
+2022-09-18 13:25:50.791 +05:30 [INF] Now listening on: https://localhost:7088
+2022-09-18 13:25:50.800 +05:30 [INF] Now listening on: http://localhost:5088
+2022-09-18 13:25:50.802 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-18 13:25:50.802 +05:30 [INF] Hosting environment: Development
+2022-09-18 13:25:50.802 +05:30 [INF] Content root path: C:\Users\polisettyk\source\repos\EntityWithDapper\EntityWithDapper\
+2022-09-18 13:25:51.325 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger - -
+2022-09-18 13:25:51.483 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger - - - 301 0 - 161.8279ms
+2022-09-18 13:25:51.497 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/index.html - -
+2022-09-18 13:25:51.717 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/swagger-ui.css - -
+2022-09-18 13:25:51.718 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/swagger-ui-bundle.js - -
+2022-09-18 13:25:51.725 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/swagger-ui-standalone-preset.js - -
+2022-09-18 13:25:51.725 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/_framework/aspnetcore-browser-refresh.js - -
+2022-09-18 13:25:51.725 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/_vs/browserLink - -
+2022-09-18 13:25:51.730 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/index.html - - - 200 - text/html;charset=utf-8 232.7815ms
+2022-09-18 13:25:51.738 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/_framework/aspnetcore-browser-refresh.js - - - 200 12002 application/javascript;+charset=utf-8 13.0908ms
+2022-09-18 13:25:51.777 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 51.7616ms
+2022-09-18 13:25:51.850 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2022-09-18 13:25:51.850 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2022-09-18 13:25:51.851 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/swagger-ui-standalone-preset.js - - - 200 337162 application/javascript 127.9901ms
+2022-09-18 13:25:51.851 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/swagger-ui.css - - - 200 143632 text/css 134.6040ms
+2022-09-18 13:25:51.877 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2022-09-18 13:25:51.877 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/swagger-ui-bundle.js - - - 200 1092889 application/javascript 159.1949ms
+2022-09-18 13:25:52.033 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/v1/swagger.json - -
+2022-09-18 13:25:52.106 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 72.8881ms
+2022-09-18 13:25:55.947 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/users/getusers - -
+2022-09-18 13:25:55.952 +05:30 [INF] Executing endpoint 'EntityWithDapper.Controllers.UserController.GetUsers (EntityWithDapper)'
+2022-09-18 13:25:55.974 +05:30 [INF] Route matched with {action = "GetUsers", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetUsers() on controller EntityWithDapper.Controllers.UserController (EntityWithDapper).
+2022-09-18 13:26:09.329 +05:30 [INF] Executing OkObjectResult, writing value of type 'Domains.Entities.User'.
+2022-09-18 13:26:12.739 +05:30 [INF] Executed action EntityWithDapper.Controllers.UserController.GetUsers (EntityWithDapper) in 16758.5993ms
+2022-09-18 13:26:12.741 +05:30 [INF] Executed endpoint 'EntityWithDapper.Controllers.UserController.GetUsers (EntityWithDapper)'
+2022-09-18 13:26:12.744 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/users/getusers - - - 200 - application/json;+charset=utf-8 16796.9715ms
+2022-09-18 13:28:24.251 +05:30 [INF] Now listening on: https://localhost:7088
+2022-09-18 13:28:24.263 +05:30 [INF] Now listening on: http://localhost:5088
+2022-09-18 13:28:24.266 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-18 13:28:24.266 +05:30 [INF] Hosting environment: Development
+2022-09-18 13:28:24.266 +05:30 [INF] Content root path: C:\Users\polisettyk\source\repos\EntityWithDapper\EntityWithDapper\
+2022-09-18 13:28:24.933 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger - -
+2022-09-18 13:28:25.092 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger - - - 301 0 - 162.6457ms
+2022-09-18 13:28:25.094 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/index.html - -
+2022-09-18 13:28:25.333 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/swagger-ui-bundle.js - -
+2022-09-18 13:28:25.333 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/swagger-ui-standalone-preset.js - -
+2022-09-18 13:28:25.333 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/_framework/aspnetcore-browser-refresh.js - -
+2022-09-18 13:28:25.333 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/swagger-ui.css - -
+2022-09-18 13:28:25.333 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/_vs/browserLink - -
+2022-09-18 13:28:25.341 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/index.html - - - 200 - text/html;charset=utf-8 247.2984ms
+2022-09-18 13:28:25.345 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/_framework/aspnetcore-browser-refresh.js - - - 200 12002 application/javascript;+charset=utf-8 11.9633ms
+2022-09-18 13:28:25.393 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2022-09-18 13:28:25.393 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2022-09-18 13:28:25.399 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/swagger-ui-standalone-preset.js - - - 200 337162 application/javascript 66.4438ms
+2022-09-18 13:28:25.399 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/swagger-ui.css - - - 200 143632 text/css 65.8522ms
+2022-09-18 13:28:25.411 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 77.6089ms
+2022-09-18 13:28:25.414 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2022-09-18 13:28:25.414 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/swagger-ui-bundle.js - - - 200 1092889 application/javascript 81.5609ms
+2022-09-18 13:28:25.567 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/v1/swagger.json - -
+2022-09-18 13:28:25.621 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 53.2175ms
+2022-09-18 13:28:30.216 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/users/getusers - -
+2022-09-18 13:28:30.221 +05:30 [INF] Executing endpoint 'EntityWithDapper.Controllers.UserController.GetUsers (EntityWithDapper)'
+2022-09-18 13:28:30.247 +05:30 [INF] Route matched with {action = "GetUsers", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetUsers() on controller EntityWithDapper.Controllers.UserController (EntityWithDapper).
+2022-09-18 13:28:31.376 +05:30 [INF] Executing OkObjectResult, writing value of type 'Domains.Entities.User'.
+2022-09-18 13:28:31.394 +05:30 [INF] Executed action EntityWithDapper.Controllers.UserController.GetUsers (EntityWithDapper) in 1142.7362ms
+2022-09-18 13:28:31.395 +05:30 [INF] Executed endpoint 'EntityWithDapper.Controllers.UserController.GetUsers (EntityWithDapper)'
+2022-09-18 13:28:31.399 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/users/getusers - - - 200 - application/json;+charset=utf-8 1184.0982ms
+2022-09-18 13:32:47.982 +05:30 [INF] Now listening on: https://localhost:7088
+2022-09-18 13:32:47.992 +05:30 [INF] Now listening on: http://localhost:5088
+2022-09-18 13:32:47.994 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-18 13:32:47.994 +05:30 [INF] Hosting environment: Development
+2022-09-18 13:32:47.995 +05:30 [INF] Content root path: C:\Users\polisettyk\source\repos\EntityWithDapper\EntityWithDapper\
+2022-09-18 13:32:49.205 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger - -
+2022-09-18 13:32:49.340 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger - - - 301 0 - 138.2189ms
+2022-09-18 13:32:49.342 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/index.html - -
+2022-09-18 13:32:49.652 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/swagger-ui-bundle.js - -
+2022-09-18 13:32:49.652 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/swagger-ui-standalone-preset.js - -
+2022-09-18 13:32:49.652 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/_framework/aspnetcore-browser-refresh.js - -
+2022-09-18 13:32:49.653 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/swagger-ui.css - -
+2022-09-18 13:32:49.654 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/index.html - - - 200 - text/html;charset=utf-8 312.1736ms
+2022-09-18 13:32:49.655 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/_vs/browserLink - -
+2022-09-18 13:32:49.666 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/_framework/aspnetcore-browser-refresh.js - - - 200 12002 application/javascript;+charset=utf-8 13.9595ms
+2022-09-18 13:32:49.713 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2022-09-18 13:32:49.713 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2022-09-18 13:32:49.716 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/swagger-ui.css - - - 200 143632 text/css 62.9708ms
+2022-09-18 13:32:49.716 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/swagger-ui-standalone-preset.js - - - 200 337162 application/javascript 63.7355ms
+2022-09-18 13:32:49.734 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2022-09-18 13:32:49.734 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/swagger-ui-bundle.js - - - 200 1092889 application/javascript 82.2959ms
+2022-09-18 13:32:49.757 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 102.0010ms
+2022-09-18 13:32:49.942 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/v1/swagger.json - -
+2022-09-18 13:32:49.996 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 53.3518ms
+2022-09-18 13:32:53.832 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/users/getusers - -
+2022-09-18 13:32:53.838 +05:30 [INF] Executing endpoint 'EntityWithDapper.Controllers.UserController.GetUsers (EntityWithDapper)'
+2022-09-18 13:32:53.862 +05:30 [INF] Route matched with {action = "GetUsers", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetUsers() on controller EntityWithDapper.Controllers.UserController (EntityWithDapper).
+2022-09-18 13:32:55.137 +05:30 [INF] Executing OkObjectResult, writing value of type 'Domains.Entities.User'.
+2022-09-18 13:32:55.157 +05:30 [INF] Executed action EntityWithDapper.Controllers.UserController.GetUsers (EntityWithDapper) in 1289.4465ms
+2022-09-18 13:32:55.159 +05:30 [INF] Executed endpoint 'EntityWithDapper.Controllers.UserController.GetUsers (EntityWithDapper)'
+2022-09-18 13:32:55.161 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/users/getusers - - - 200 - application/json;+charset=utf-8 1329.0277ms
+2022-09-18 14:51:34.194 +05:30 [INF] Now listening on: https://localhost:7088
+2022-09-18 14:51:34.204 +05:30 [INF] Now listening on: http://localhost:5088
+2022-09-18 14:51:34.206 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-18 14:51:34.207 +05:30 [INF] Hosting environment: Development
+2022-09-18 14:51:34.207 +05:30 [INF] Content root path: C:\Users\polisettyk\source\repos\EntityWithDapper\EntityWithDapper\
+2022-09-18 14:51:34.950 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger - -
+2022-09-18 14:51:35.096 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger - - - 301 0 - 148.6737ms
+2022-09-18 14:51:35.098 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/index.html - -
+2022-09-18 14:51:35.334 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/_framework/aspnetcore-browser-refresh.js - -
+2022-09-18 14:51:35.334 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/swagger-ui-bundle.js - -
+2022-09-18 14:51:35.334 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/swagger-ui-standalone-preset.js - -
+2022-09-18 14:51:35.334 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/swagger-ui.css - -
+2022-09-18 14:51:35.334 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/_vs/browserLink - -
+2022-09-18 14:51:35.343 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/index.html - - - 200 - text/html;charset=utf-8 244.8485ms
+2022-09-18 14:51:35.345 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/_framework/aspnetcore-browser-refresh.js - - - 200 12002 application/javascript;+charset=utf-8 10.9698ms
+2022-09-18 14:51:35.381 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2022-09-18 14:51:35.381 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/swagger-ui.css - - - 200 143632 text/css 46.7821ms
+2022-09-18 14:51:35.387 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2022-09-18 14:51:35.389 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/swagger-ui-standalone-preset.js - - - 200 337162 application/javascript 53.9927ms
+2022-09-18 14:51:35.397 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 62.9941ms
+2022-09-18 14:51:35.402 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2022-09-18 14:51:35.402 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/swagger-ui-bundle.js - - - 200 1092889 application/javascript 68.7246ms
+2022-09-18 14:51:35.550 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/v1/swagger.json - -
+2022-09-18 14:51:35.611 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 61.7781ms
+2022-09-18 14:51:41.641 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/users/getusers - -
+2022-09-18 14:51:41.652 +05:30 [INF] Executing endpoint 'EntityWithDapper.Controllers.UserController.GetUsers (EntityWithDapper)'
+2022-09-18 14:51:41.674 +05:30 [INF] Route matched with {action = "GetUsers", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetUsers() on controller EntityWithDapper.Controllers.UserController (EntityWithDapper).
+2022-09-18 14:51:42.525 +05:30 [INF] Executing OkObjectResult, writing value of type 'Domains.Entities.User'.
+2022-09-18 14:51:42.543 +05:30 [INF] Executed action EntityWithDapper.Controllers.UserController.GetUsers (EntityWithDapper) in 865.1548ms
+2022-09-18 14:51:42.545 +05:30 [INF] Executed endpoint 'EntityWithDapper.Controllers.UserController.GetUsers (EntityWithDapper)'
+2022-09-18 14:51:42.548 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/users/getusers - - - 200 - application/json;+charset=utf-8 907.3650ms
+2022-09-23 11:33:22.947 +05:30 [INF] Now listening on: https://localhost:7088
+2022-09-23 11:33:22.957 +05:30 [INF] Now listening on: http://localhost:5088
+2022-09-23 11:33:22.959 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-23 11:33:22.960 +05:30 [INF] Hosting environment: Development
+2022-09-23 11:33:22.960 +05:30 [INF] Content root path: C:\Users\polisettyk\source\repos\EntityWithDapper\EntityWithDapper\
+2022-09-23 11:33:26.919 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger - -
+2022-09-23 11:33:27.123 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger - - - 301 0 - 206.3199ms
+2022-09-23 11:33:27.124 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/index.html - -
+2022-09-23 11:33:27.392 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/swagger-ui-bundle.js - -
+2022-09-23 11:33:27.392 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/swagger-ui-standalone-preset.js - -
+2022-09-23 11:33:27.393 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/_framework/aspnetcore-browser-refresh.js - -
+2022-09-23 11:33:27.393 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/swagger-ui.css - -
+2022-09-23 11:33:27.394 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/_vs/browserLink - -
+2022-09-23 11:33:27.399 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/index.html - - - 200 - text/html;charset=utf-8 274.9470ms
+2022-09-23 11:33:27.402 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/_framework/aspnetcore-browser-refresh.js - - - 200 12002 application/javascript;+charset=utf-8 8.5667ms
+2022-09-23 11:33:27.429 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2022-09-23 11:33:27.429 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2022-09-23 11:33:27.429 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/swagger-ui-standalone-preset.js - - - 200 337162 application/javascript 37.0627ms
+2022-09-23 11:33:27.429 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/swagger-ui.css - - - 200 143632 text/css 36.4990ms
+2022-09-23 11:33:27.448 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2022-09-23 11:33:27.448 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/swagger-ui-bundle.js - - - 200 1092889 application/javascript 55.5385ms
+2022-09-23 11:33:27.471 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 77.6640ms
+2022-09-23 11:33:27.572 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/v1/swagger.json - -
+2022-09-23 11:33:27.597 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/favicon-32x32.png - -
+2022-09-23 11:33:27.597 +05:30 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2022-09-23 11:33:27.597 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/favicon-32x32.png - - - 200 628 image/png 0.3384ms
+2022-09-23 11:33:27.628 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 55.8101ms
+2022-09-23 11:33:33.540 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7088/users/getusers - -
+2022-09-23 11:33:33.546 +05:30 [INF] Executing endpoint 'EntityWithDapper.Controllers.UserController.GetUsers (EntityWithDapper)'
+2022-09-23 11:33:33.565 +05:30 [INF] Route matched with {action = "GetUsers", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetUsers() on controller EntityWithDapper.Controllers.UserController (EntityWithDapper).
+2022-09-23 11:33:34.841 +05:30 [INF] Executing OkObjectResult, writing value of type 'Domains.Entities.User'.
+2022-09-23 11:33:34.860 +05:30 [INF] Executed action EntityWithDapper.Controllers.UserController.GetUsers (EntityWithDapper) in 1290.4423ms
+2022-09-23 11:33:34.861 +05:30 [INF] Executed endpoint 'EntityWithDapper.Controllers.UserController.GetUsers (EntityWithDapper)'
+2022-09-23 11:33:34.864 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7088/users/getusers - - - 200 - application/json;+charset=utf-8 1323.7556ms
